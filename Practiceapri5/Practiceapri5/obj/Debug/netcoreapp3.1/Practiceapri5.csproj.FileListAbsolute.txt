@@ -1,0 +1,12 @@
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/bin/Debug/netcoreapp3.1/Practiceapri5.deps.json
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/bin/Debug/netcoreapp3.1/Practiceapri5.runtimeconfig.json
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/bin/Debug/netcoreapp3.1/Practiceapri5.runtimeconfig.dev.json
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/bin/Debug/netcoreapp3.1/Practiceapri5.dll
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/bin/Debug/netcoreapp3.1/Practiceapri5.pdb
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/obj/Debug/netcoreapp3.1/Practiceapri5.csprojAssemblyReference.cache
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/obj/Debug/netcoreapp3.1/Practiceapri5.AssemblyInfoInputs.cache
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/obj/Debug/netcoreapp3.1/Practiceapri5.AssemblyInfo.cs
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/obj/Debug/netcoreapp3.1/Practiceapri5.csproj.CoreCompileInputs.cache
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/obj/Debug/netcoreapp3.1/Practiceapri5.dll
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/obj/Debug/netcoreapp3.1/Practiceapri5.pdb
+/Users/marktopolski/Projects/Practiceapri5/Practiceapri5/obj/Debug/netcoreapp3.1/Practiceapri5.genruntimeconfig.cache
